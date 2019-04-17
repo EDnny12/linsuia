@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761663349325",
+    "firebase_url": "https://linsu-ia-57895.firebaseio.com",
+    "project_id": "linsu-ia-57895",
+    "storage_bucket": "linsu-ia-57895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761663349325:android:b6e1cd1f0a0a3f48",
+        "android_client_info": {
+          "package_name": "com.ednny.tensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761663349325-bcbs4f9175k57m4l2s1ah00vch6qiau8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ednny.tensor",
+            "certificate_hash": "ab605e0a7986e433a9deda259680261934c19c3d"
+          }
+        },
+        {
+          "client_id": "761663349325-och8m3hm7935vll5djnonbass1paqmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Svc8FCRjnVHX2c6Qqr5GvSskjloH-cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761663349325-och8m3hm7935vll5djnonbass1paqmg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
